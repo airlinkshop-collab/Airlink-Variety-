@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Airlink Variety | এয়ারলিংক ভ্যারাইটি",
+  "short_name": "Airlink Variety",
+  "description": "Airlink Variety shop services and WhatsApp orders",
+  "lang": "bn",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f8fd",
+  "theme_color": "#0b3b75",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
